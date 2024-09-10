@@ -1,0 +1,48 @@
+.nav{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+.scroll{
+    position: absolute;
+    right: 0;
+}
+img{
+    width: 30px;
+}
+.pics{
+    width: 25px;
+}
+.arrow{
+    width: 20px;
+}
+.parent1{
+    display: flex;
+    align-items: center;
+}
+.kid{
+    padding: 10px;
+}
+.parent2{
+align-items: center;
+display: flex;
+}
+ .main{
+    display: flex;
+  justify-content: space-evenly;
+  justify-content: space-between;
+    
+ }
+.scroll{
+    width: 10px;
+}
